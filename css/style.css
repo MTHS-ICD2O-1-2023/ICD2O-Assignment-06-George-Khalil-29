@@ -32,14 +32,6 @@ body {
   box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);
 }
 
-h3 {
-  margin-top: 0;
-  font-size: 28px;
-  color: #ffeb3b;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-}
-
 #weather-description {
   font-size: 20px;
   margin: 15px 0;
