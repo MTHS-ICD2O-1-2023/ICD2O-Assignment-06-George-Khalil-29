@@ -1,7 +1,7 @@
 // This is a simple service worker that will cache all resources
 // so that it works offline
 
-const CACHE_NAME = "chat-bot-cache-v1"
+const CACHE_NAME = "Weather-App-cache-v1"
 const urlsToCache = [
   "https://mths-icd2o-1-2023.github.io/ICD2O-Assignment-06-George-Khalil-29/",
   "index.html", // Update with your actual HTML file name if different
